@@ -1,0 +1,33 @@
+.cia-realizes{
+    color: darkgreen;
+}
+
+.director{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+text-align: center;
+}
+
+p{
+    line-height: 25px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+main{
+    text-transform: uppercase;
+}
+
+
+img{
+    float: left;
+    padding-right: 25px;
+}
